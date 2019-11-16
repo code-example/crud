@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "symfony/web-server-bundle": "^4.3"
+    },
+    "require": {
+        "siriusphp/validation": "^2.3"
+    },
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+}
